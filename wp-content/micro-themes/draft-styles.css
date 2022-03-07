@@ -1,0 +1,124 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Cardapio Home **/
+.cardapiohome .uagb-rm__title-wrap {
+	
+}
+
+/** Geral >> Cardapio Home Price **/
+.cardapiohome .uagb-rm__price-wrap {
+	min-width: 130px !important;
+}
+
+/** Geral >> Cardapio Image **/
+.cardapiohome .uagb-rm__image-content {
+	text-align: center !important;
+	width: auto !important;
+	padding-right: 10px !important;
+	padding-left: 10px !important;
+}
+
+/** Geral >> Cardapio Image Center **/
+.cardapiohome .uagb-rm__image {
+	width: auto !important;
+	height: 100% !important;
+	margin-right: 0 !important;
+}
+
+/** Geral >> Cardapio Image img **/
+.cardapiohome .ls-is-cached {
+	height: 100% !important;
+}
+
+/** Geral >> Astra widget social profiles 2 widget title **/
+#astra-widget-social-profiles-2 .widget-title {
+	color: rgb(244, 117, 33) !important;
+}
+
+
+/*( < 980 )*/
+@media (max-width: 979.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Rodape Redes Sociais items **/
+	#astra-widget-social-profiles-2 li {
+	display: block !important;
+}
+
+	/** Geral >> Post 11 uagb block 979acd33 **/
+	#post-11 .uagb-block-979acd33 {
+	padding-top: 150px !important;
+	padding-bottom: 150px !important;
+}
+
+	/** Geral >> Cardapio Home Price **/
+	.cardapiohome .uagb-rm__price-wrap {
+	min-width: 80px !important;
+}
+
+	/** Geral >> Cardapiohome price items **/
+	.cardapiohome .uagb-rm__price {
+	font-size: 22px !important;
+}
+
+	/** Geral >> Cardapiohome title **/
+	.cardapiohome .uagb-rm__title {
+	font-size: 26px !important;
+}
+
+
+}
+
+
+/*( < 768 )*/
+@media (max-width: 767.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Astra footer menu menu link **/
+	#astra-footer-menu .menu-link {
+	width: 150px !important;
+}
+
+	/** Geral >> Post 11 uagb block 979acd33 **/
+	#post-11 .uagb-block-979acd33 {
+	padding-top: 100px !important;
+	padding-bottom: 100px !important;
+}
+
+	/** Geral >> Uagb block 3af7daf9 uagb column overlay **/
+	.uagb-block-3af7daf9 .uagb-column__overlay {
+	
+}
+
+	/** Geral >> Post 11 uagb block 3af7daf9 **/
+	#post-11 .uagb-block-3af7daf9 {
+	display: none !important;
+}
+
+
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Astra footer menu menu link **/
+	#astra-footer-menu .menu-link {
+	
+}
+
+	/** Geral >> Astra footer menu **/
+	#astra-footer-menu {
+	
+}
+
+
+}
+
