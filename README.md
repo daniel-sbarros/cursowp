@@ -4,7 +4,8 @@
 Repositório com os arquivos do Curso de WordPress: Criando um Site do Zero
 
 ## Links do Curso
-Youtube: *[Canal Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)* \
+Youtube: *<a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ" target="_blank">Canal Curso em Vídeo</a>*
+<!-- Youtube: [Canal Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) \ -->
 Playlist: *[Curso de WordPress: criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)*
 
 ## Downloads
@@ -28,7 +29,5 @@ Playlist: *[Curso de WordPress: criando um site do zero](https://www.youtube.com
 - [ ] UpdraftPlus - Backup/Restore
 - [ ] Rank Math SEO
 
-[^author]: 
-    Daniel S. Barros
-[^GitHub]:
-    *[daniel-sbarros](https://github.com/daniel-sbarros/)*
+[^1]: Daniel S. Barros
+[^1]: *[daniel-sbarros](https://github.com/daniel-sbarros/)*
