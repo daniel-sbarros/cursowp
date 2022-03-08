@@ -8,13 +8,13 @@
 * Playlist: *[Curso de WordPress: criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)*
 
 ## Downloads
-* XAMPP *[Download](https://www.apachefriends.org/pt_br/index.html)*
+* XAMPP[^xampp] *[Download](https://www.apachefriends.org/pt_br/index.html)*
   * Instalado na pasta: ***C:\xampp***
 * WordPress 5.9.1 (Última Versão na Época) *[Download](https://br.wordpress.org/download/)*
   * Descompactado na pasta: ***C:\xampp\htdocs\cursowp*** (Pasta do Projeto/Site)
 
 ## Temas
-- [ ] Astra
+- [ ] Astra[^tema]
 - [x] Astra Child *[Download](https://wpastra.com/child-theme-generator/)*
 
 ## Plugins Utilizados
@@ -24,9 +24,10 @@
 - [x] Ultimate Addons for Gutenberg
 - [x] WPForms Lite
 - [x] WPS Hide Login
-- [ ] WP Super Cache
+- [ ] WP Super Cache[^plugins]
 - [ ] UpdraftPlus - Backup/Restore
 - [ ] Rank Math SEO
 
-[^1]: Daniel S. Barros
-[^1]: *[daniel-sbarros](https://github.com/daniel-sbarros/)*
+[^xampp]: Pacote de Apps, contendo PHP, MySQL, Apache, etc.
+[^tema]: O Tema-Pai fica desativado.
+[^plugins]: Plugins Desativados, só serão ativados quando forem colocados em produção.
