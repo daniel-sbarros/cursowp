@@ -1,7 +1,7 @@
 # Curso WordPress - Canal Curso em Vídeo
 
 ## Descrição
-*Repositório com os arquivos que foram criados por **Daniel Barros**, vulgo eu, quando acompanhava o **Curso de WordPress: Criando um Site do Zero**, do canal do **Youtube Curso em Vídeo**, porém, meu projeto é um pouco diferente do que foi feito no curso, no curso é criado um site de um **Restaurante** e eu criei de uma **Pizzaria**, e a versão do **Wordpress** e dos **Plugins** são diferentes, visto que, quando acompanhei o curso, já tinha quase 2 anos de seu lançamento.*
+*Repositório com os arquivos que foram criados quando eu acompanhava o **Curso de WordPress: Criando um Site do Zero**, do canal do **Youtube Curso em Vídeo**, porém, meu projeto é um pouco diferente do que foi feito no curso, no curso é criado um site de um **Restaurante** e eu criei de uma **Pizzaria**, e a versão do **Wordpress** e dos **Plugins** são diferentes, visto que, quando acompanhei o curso, já tinha quase 2 anos de seu lançamento.*
 
 ## Links do Curso
 * Youtube: *[Canal Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)*
