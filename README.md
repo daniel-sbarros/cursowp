@@ -1,12 +1,11 @@
 # Curso WordPress - Canal Curso em Vídeo
 
 ## Descrição
-Repositório com os arquivos do Curso de WordPress: Criando um Site do Zero
+* Repositório com os arquivos do Curso de WordPress: Criando um Site do Zero
 
 ## Links do Curso
-Youtube: *[Canal Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)*
-
-Playlist: *[Curso de WordPress: criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)*
+* Youtube: *[Canal Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)*
+* Playlist: *[Curso de WordPress: criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)*
 
 ## Downloads
 * XAMPP *[Download](https://www.apachefriends.org/pt_br/index.html)*
